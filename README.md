@@ -9,4 +9,4 @@
 <i>Python 3.9 required</i><br>
 <code>pip install -r requirements.txt</code>
 
-Read more here: [**Medium:** * *Unlocking Insights from Twitter Data with Neo4j: A Hands-On Tutorial* *](https://medium.com/@sophiavei/unlocking-insights-from-twitter-data-with-neo4j-a-hands-on-tutorial-57b4212339f0)
+Read more here: [**Medium:** *Unlocking Insights from Twitter Data with Neo4j: A Hands-On Tutorial*](https://medium.com/@sophiavei/unlocking-insights-from-twitter-data-with-neo4j-a-hands-on-tutorial-57b4212339f0)
